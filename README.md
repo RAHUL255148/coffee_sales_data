@@ -45,3 +45,5 @@ To design an interactive sales dashboard for a coffee shop that analyzes sales t
 - **Dashboard Design**  
   Assembled all visual elements and slicers into a single, interactive dashboard. Focused on usability and insight discovery for business decision-makers.
 
+  ## Dashboard Image
+  - Dashboard Image <a href ="https://github.com/RAHUL255148/coffee_sales_data/blob/main/Screenshot%202025-02-03%20141252.png">a/> 
