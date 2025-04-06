@@ -15,4 +15,33 @@ To design an interactive sales dashboard for a coffee shop that analyzes sales t
 - **Regional Sales Distribution:** Highlights performance differences across locations.
 - **Sales Trends by Season/Month:** Helps spot peak sales periods and off-seasons.
 
-- Dashboard Interaction <a href ="https://1drv.ms/x/c/a690e94b3e900053/EbVVXu3Ub4JKjSlWFHaTJnMBlKHfgsc6zdZOwKr425WhAQ?e=25zHeV">Dashboard<a/> 
+- Dashboard Interaction <a href ="https://1drv.ms/x/c/a690e94b3e900053/EbVVXu3Ub4JKjSlWFHaTJnMBlKHfgsc6zdZOwKr425WhAQ?e=25zHeV">Dashboard<a/>
+
+- ## process
+- ## 🔄 Process
+
+- **Data Collection & Import**  
+  Collected historical sales data from 2019 to 2024, including transaction dates, product categories, pack sizes, regions, and customer details. Imported the dataset into Excel for analysis.
+
+- **Data Cleaning & Preparation**  
+  Cleaned and structured the raw data using Excel functions such as lookups, filters, and conditional formatting. Removed duplicates, standardized date formats, and categorized key fields like coffee type and pack size.
+
+- **Data Modeling & Slicer Setup**  
+  Created interactive slicers for:
+  - Coffee Types  
+  - Pack Sizes  
+  - Loyalty Card Customers  
+  These slicers allow dynamic filtering for targeted insights.
+
+- **Trend & Time-Based Analysis**  
+  Built a timeline spanning 2019–2024 to identify sales patterns over months and years. Used line charts to detect seasonal trends and year-over-year changes.
+
+- **Visualization Development**  
+  Designed clear and engaging visualizations, including:
+  - Sales Over Time (Line Chart)  
+  - Region-Wise Sales (Bar Chart)  
+  - Top 5 Customers by Revenue (Bar Chart)
+
+- **Dashboard Design**  
+  Assembled all visual elements and slicers into a single, interactive dashboard. Focused on usability and insight discovery for business decision-makers.
+
