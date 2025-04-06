@@ -15,4 +15,4 @@ To design an interactive sales dashboard for a coffee shop that analyzes sales t
 - **Regional Sales Distribution:** Highlights performance differences across locations.
 - **Sales Trends by Season/Month:** Helps spot peak sales periods and off-seasons.
 
-- Dashboard Interaction <a href ="https://github.com/RAHUL255148/coffee_sales_data/blob/main/Screenshot%202025-02-03%20141252.png">Dashboard Image<a/a> 
+- Dashboard Interaction <a href ="https://1drv.ms/x/c/a690e94b3e900053/EbVVXu3Ub4JKjSlWFHaTJnMBlKHfgsc6zdZOwKr425WhAQ?e=25zHeV">Dashboard<a/> 
